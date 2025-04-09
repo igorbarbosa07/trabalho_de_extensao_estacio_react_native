@@ -3,7 +3,6 @@ Repositório com os códigos do aplicativo desenvolvido em React Native para o t
 
 # 📱 Aplicativo Santuário Nossa Senhora da Vitória
 
-![Capa do Projeto](https://via.placeholder.com/800x400/5D4037/FFFFFF?text=Santuário+N.S.+da+Vitória)  
 *App para comunicação paroquial e acesso à liturgia católica*
 
 ## ✨ Funcionalidades
@@ -30,8 +29,3 @@ Repositório com os códigos do aplicativo desenvolvido em React Native para o t
    - Expo CLI instalado (`npm install -g expo-cli`)
    - Dispositivo físico/emulador com [Expo Go](https://expo.dev/client)
 
-2. **Instalação**:
-   ```bash
-   git clone https://github.com/seu-usuario/santuario-app.git
-   cd santuario-app
-   npm install
