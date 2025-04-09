@@ -1,11 +1,28 @@
-# Sample Snack app
+# trabalho_de_extensao_estacio_react_native
+Repositório com os códigos do aplicativo desenvolvido em React Native para o trabalho de extensão da disciplina Programação Para Dispositivos Móveis Em Android
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+# 📱 Aplicativo para comunicação paroquial e acesso à liturgia católica 
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+## ✨ Funcionalidades
+- **Avisos paroquiais**: Publicação de eventos, missas e atividades pela equipe administrativa.
+- **Notificações**: Alertas em tempo real para novos avisos.
+- **Bíblia Sagrada**: Leitura online da versão Ave-Maria (WebView).
+- **Evangelho do dia**: Acesso direto à liturgia diária.
+- **Painel admin**: Área restrita para gestão de conteúdo.
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+## 🛠 Tecnologias
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+**Principais bibliotecas**:
+- `@react-navigation/native` (navegação)
+- `expo-notifications` (alertas push)
+- `@react-native-async-storage/async-storage` (armazenamento local)
+- `@react-native-community/netinfo` (verificação de conexão)
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+## 🚀 Como Executar
+1. **Pré-requisitos**:
+   - Node.js 16+
+   - Expo CLI instalado (`npm install -g expo-cli`)
+   - Dispositivo físico/emulador com [Expo Go](https://expo.dev/client)
