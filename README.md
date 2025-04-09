@@ -1,9 +1,7 @@
 # trabalho_de_extensao_estacio_react_native
 Repositório com os códigos do aplicativo desenvolvido em React Native para o trabalho de extensão da disciplina Programação Para Dispositivos Móveis Em Android
 
-# 📱 Aplicativo Santuário Nossa Senhora da Vitória
-
-*App para comunicação paroquial e acesso à liturgia católica*
+# 📱 Aplicativo para comunicação paroquial e acesso à liturgia católica 
 
 ## ✨ Funcionalidades
 - **Avisos paroquiais**: Publicação de eventos, missas e atividades pela equipe administrativa.
